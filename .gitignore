@@ -1,0 +1,12 @@
+# binary
+bin
+obj
+
+# Test Outputs
+TestResults
+coveragereport
+
+# vim xdd
+*~
+*.swp
+
